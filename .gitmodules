@@ -1,0 +1,3 @@
+[submodule "NestedSubmodule"]
+	path = NestedSubmodule
+	url = https://github.com/BaycanAkcay/NestedSubmodule.git
